@@ -12,6 +12,6 @@ The dataset used for training purpose has 3 different classes and is available o
 The Validation Accuracy of the final trained model is 93.71% and the Testing Accuracy is of 91.74%
 
 ## References
- https://www.kaggle.com/datasets/mahdinavaei/brain-tumor-mri-images-huge
- https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+ https://www.kaggle.com/datasets/mahdinavaei/brain-tumor-mri-images-huge <br/>
+ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset <br/>
 
